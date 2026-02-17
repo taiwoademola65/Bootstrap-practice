@@ -1,0 +1,27 @@
+limitations of Bootstrap 
+they provide just 8 colors which is limited
+they provide only 0-5 and 0-6 value (property with numeric value)
+
+
+The acronyms for margin is m
+for example -m5 (Margin around 5px)
+mt- margin top    margin-top:20px;   class="mt-2 my-2 "
+mb- margin bottom
+ml- margin left
+mr- margin right
+
+mx - padding left and right
+my- padding top and bottom
+
+pl-padding left
+px - padding left and right
+py- padding top and bottom
+
+fs-1
+Typography
+fs- 1 which is the biggest size
+fw - 1-6
+
+display flex is known as d-flex
+
+
