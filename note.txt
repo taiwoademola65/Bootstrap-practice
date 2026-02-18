@@ -7,13 +7,14 @@ The acronyms for margin is m
 for example -m5 (Margin around 5px)
 mt- margin top    margin-top:20px;   class="mt-2 my-2 "
 mb- margin bottom
-ml- margin left
-mr- margin right
+ms- margin left
+me- margin right
 
-mx - padding left and right
-my- padding top and bottom
+mx - margin left and right
+my- margin top and bottom
 
-pl-padding left
+ps-padding left
+pe- padding right
 px - padding left and right
 py- padding top and bottom
 
