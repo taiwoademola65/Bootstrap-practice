@@ -1,3 +1,13 @@
+Grid System in bootstrap
+<div class="container fluid" style="height: 300px;"></div>
+indtead of flex you can make use of row and column, recall table comprises of rows and column
+you can decide to make one column long than the other,
+
+<div class="row">
+  <div class="col-">for text</div>
+  <div class="col-">for image</div>
+</div>
+
 limitations of Bootstrap 
 they provide just 8 colors which is limited
 they provide only 0-5 and 0-6 value (property with numeric value)
