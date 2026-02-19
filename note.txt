@@ -33,6 +33,9 @@ Typography
 fs- 1 which is the biggest size
 fw - 1-6
 
+
+
+
 display flex is known as d-flex
 
 
